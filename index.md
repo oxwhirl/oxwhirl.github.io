@@ -6,12 +6,18 @@ layout: default
 
 WhiRL is a machine learning research group in the Department of Computer Science at the University of Oxford that is focused on reinforcement learning, deep learning, and related topics, with applications in robotics, video games, and information retrieval.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+* [People](./pages/people.html)
+* Research
+  * Overview
+  * [Publication](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html)
+  * Code
+* Join
+* Reading Group
 
-[Link to another page](./another-page.html).
-[People](./people.html).
+### Latest News
+Feb 27, 2021: [4 Papers Accepted at ICLR 2021 and AAAI 2021](./pages/news/20210227.html)
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -125,4 +131,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
