@@ -2,6 +2,10 @@
 layout: default
 ---
 
+![Branching](https://raw.githubusercontent.com/oxwhirl/whirl.github.io/master/assets/img/whirl-1.jpg?token=ABTHN3SKHYIJ2PN73ZTKDP3BQ7TZU)
+
+WhiRL is a machine learning research group in the Department of Computer Science at the University of Oxford that is focused on reinforcement learning, deep learning, and related topics, with applications in robotics, video games, and information retrieval.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
