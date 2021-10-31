@@ -11,8 +11,9 @@ WhiRL is a machine learning research group in the Department of Computer Science
   * Overview
   * [Publication](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html)
   * Code
-* Join
+* [Join](./pages/join.html)
 * Reading Group
+* Contact
 
 ### Latest News
 Feb 27, 2021: [4 Papers Accepted at ICLR 2021 and AAAI 2021](./pages/news/20210227.html)
