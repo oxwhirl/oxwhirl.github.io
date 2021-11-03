@@ -2,3 +2,18 @@
 ---
 
 @import "jekyll-theme-primer";
+
+#main_bar {
+    position: relative;
+}
+
+#whirl_logo {
+    width: 200px
+}
+
+#page_buttons {
+    display: inline;
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+}

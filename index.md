@@ -6,14 +6,14 @@ layout: default
 
 WhiRL is a machine learning research group in the Department of Computer Science at the University of Oxford that is focused on reinforcement learning, deep learning, and related topics, with applications in robotics, video games, and information retrieval.
 
-* [People](./pages/people.html)
+<!-- * [People](./pages/people.html)
 * Research
   * Overview
   * [Publication](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html)
   * Code
 * [Join](./pages/join.html)
 * Reading Group
-* Contact
+* Contact -->
 
 ### Latest News
 Feb 27, 2021: [4 Papers Accepted at ICLR 2021 and AAAI 2021](./pages/news/20210227.html)
