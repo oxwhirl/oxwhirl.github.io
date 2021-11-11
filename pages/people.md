@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Faculty 
-* [Shimon Whiteson](/pages/people/shimon.html)
+* [Shimon Whiteson](/home/pages/people/shimon.html)
 
 ## Postdoc
 * Mingfei Sun
