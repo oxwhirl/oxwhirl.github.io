@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -14,14 +15,17 @@
       {% if site.title and site.title != page.title %}
       <h1 id="main_bar">
       <!-- <a href="{{ "/" | absolute_url }}">{{ site.title }}</a> -->
-      <img id="whirl_logo" src="https://github.com/oxwhirl/home/blob/master/assets/img/whirl_large_cropped-1024x445.png?raw=true" >
-      <div id="page_buttons">
-      <a href="/index.html" class="btn">Home</a>
+      <div class="topnav" id="page_buttons">
+      <img id="whirl_logo" src="https://github.com/oxwhirl/home/blob/master/assets/img/whirl_large_cropped-1024x445.png?raw=true">
+      <a href="/index.html" class="btn active">Home</a>
       <a href="/pages/research.html" class="btn">Research</a>
       <a href="/pages/people.html" class="btn">People</a>
       <a href="/pages/join.html" class="btn">Join</a>
       <a href="/pages/reading_group.html" class="btn">Reading Group</a>
       <a href="/pages/contact.html" class="btn">Contact</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
       </div>
       </h1>
       {% endif %}
@@ -35,6 +39,16 @@
       {% endif %}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+    <script>
+    anchors.add();
+function myFunction() {
+  var x = document.getElementById("page_buttons");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+    </script>
   </body>
 </html>
