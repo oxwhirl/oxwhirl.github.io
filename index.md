@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Branching](https://raw.githubusercontent.com/oxwhirl/home/master/assets/img/whirl-1.jpg?token=ABTHN3UOBDP7MO2CTI7K2RTBQ74DY)
+![Branching](https://github.com/oxwhirl/home/blob/master/assets/img/whirl-1.jpg?raw=true)
 
 WhiRL is a machine learning research group in the Department of Computer Science at the University of Oxford that is focused on reinforcement learning, deep learning, and related topics, with applications in robotics, video games, and information retrieval.
 
