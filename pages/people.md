@@ -5,7 +5,7 @@ layout: default
 ## Faculty 
 * [Shimon Whiteson](/pages/people/shimon.html)
 
-## Postdoc
+## Postdocs
 * Mingfei Sun
 
 ## DPhil Students
