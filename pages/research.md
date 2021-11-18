@@ -2,7 +2,8 @@
 layout: default
 ---
 
-> [List of publications](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html)
+## List of Publications
+See [https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html)
 
 ## Off-Policy Learning 
 
