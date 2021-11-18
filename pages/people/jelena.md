@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/oxwhirl/home/blob/master/assets/img/jelena.jpg?raw=true" alt="drawing" class="portrait"/>
+<img src="https://github.com/oxwhirl/home/blob/master/assets/img/jelena.png?raw=true" alt="drawing" class="portrait"/>
 
 Jelena is pursuing a DPhil in CS with a focus on deep reinforcement learning.
 Her previous experience in machine learning includes an internship at DeepMind
