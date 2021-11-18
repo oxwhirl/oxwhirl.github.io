@@ -11,7 +11,7 @@ layout: default
 ## DPhil Students
 * [Zheng Xiong](/pages/people/zheng.html)
 * [Benjamin Ellis](/pages/people/ben.html)
-* [Jacob Beck](/pages/people/jakob.html)
+* [Jacob Beck](/pages/people/jacob.html)
 * [Risto Vuorio](/pages/people/risto.html)
 * [Charline Le Lan](/pages/people/charline.html)
 * [Tarun Gupta](/pages/people/tarun.html)
