@@ -17,5 +17,5 @@ Standard markdown syntax (including html syntax) is supported.
 ```bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000```  
 
 Now the website should be alive at [http://0.0.0.0:4000](http://0.0.0.0:4000).  
-If you want to use css, put it in ```assets/css/style.scss```
+If you want to use css, put it in ```assets/css/style.scss```. See the [primer theme](https://github.com/pages-themes/primer) for more details.
 
