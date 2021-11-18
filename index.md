@@ -16,6 +16,8 @@ WhiRL is a machine learning research group in the Department of Computer Science
 * Contact -->
 
 ### Latest News
+Sept 29, 2021: [4 Papers Accepted at NeurIPS 2021](/pages/news/20210929.html)
+May 08, 2021: [6 Papers Accepted at ICML 2021](/pages/news/20210508.html)
 Feb 27, 2021: [4 Papers Accepted at ICLR 2021 and AAAI 2021](/pages/news/20210227.html)
 
 <!-- There should be whitespace between paragraphs.
