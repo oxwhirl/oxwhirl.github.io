@@ -5,7 +5,7 @@ layout: default
 ## Faculty 
 * [Shimon Whiteson](/pages/people/shimon.html)
 
-## Postdoc
+## Postdocs
 * Mingfei Sun
 
 ## DPhil Students
@@ -28,6 +28,7 @@ layout: default
 
 ## Past Members
 * Bei Peng
+<<<<<<< HEAD
 * Wendelin Boehmer
 * Tim Rocktäschel
 * Kyriacos Shiarlis
@@ -39,3 +40,5 @@ layout: default
 * Greg Farquar
 * Yannis Assael
 
+=======
+>>>>>>> 354226bc9730bd6fc0600588c0163648e0494c51
