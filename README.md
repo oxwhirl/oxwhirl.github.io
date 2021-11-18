@@ -5,7 +5,7 @@ All markdown files are stored in the ```pages``` folder except for the ```index.
 Images are stored in the ```assets/image``` folder.
 You can update those markdown files directly on GitHub and preview the updates.
 The updates will be automatically deployed,
-though there might be a short delay (~1 minutes).
+though there might be a short delay (~1 minute).
 Standard markdown syntax (including html syntax) is supported.
 
 ### Local deployment
