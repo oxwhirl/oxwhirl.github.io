@@ -2,6 +2,9 @@
 layout: default
 ---
 
+## List of Publications
+See [https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html)
+
 ## Off-Policy Learning 
 
 <img src="https://github.com/oxwhirl/home/blob/master/assets/img/off-policy.png?raw=true" alt="drawing" class="portrait"/>
