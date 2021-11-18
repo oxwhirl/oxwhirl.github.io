@@ -6,7 +6,7 @@ layout: default
 * [Shimon Whiteson](/pages/people/shimon.html)
 
 ## Postdocs
-* Mingfei Sun
+* [Mingfei Sun](/pages/people/mingfei.html)
 
 ## DPhil Students
 * [Zheng Xiong](/pages/people/zheng.html)
