@@ -36,6 +36,6 @@ layout: default
 * Maximilian Igl
 * Kamil Ciosek
 * Jakob Foerster
-* Greg Farquar
+* Greg Farquhar
 * Yannis Assael
 
