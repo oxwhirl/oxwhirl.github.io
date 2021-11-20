@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## List of Publications
-See [https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html)
+WhiRL focuses primarly on reinforcement learning research.  Some of the main topics we work on include [off-policy learning](https://oxwhirl.github.io/pages/research.html#off-policy-learning).  See also a [complete list of our publications](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html).
 
 ## Off-Policy Learning 
 
