@@ -28,7 +28,7 @@ layout: default
 
 ## Former Members
 * Postdocs:
-* * Bei Peng
+  * Bei Peng
 * Wendelin Boehmer
 * Tim Rocktäschel
 * Kyriacos Shiarlis
