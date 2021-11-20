@@ -14,7 +14,7 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
+  repository_url: "https://github.com/oxwhirl/oxwhirl.github.io"
   
 title: Whiteson Research Lab 
 description: University of Oxford 
