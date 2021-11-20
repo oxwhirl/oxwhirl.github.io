@@ -2,7 +2,7 @@
 layout: default
 ---
 
-WhiRL focuses primarly on reinforcement learning research.  Some of the main topics we work on include [off-policy learning](https://oxwhirl.github.io/pages/research.html#off-policy-learning), [meta-learning]((https://oxwhirl.github.io/pages/research.html#meta-learning), [multi-agent reinforcement learning](https://oxwhirl.github.io/pages/research.html#multi-agent-reinforcement-learning), and [Bayesian reinforcement learning](https://oxwhirl.github.io/pages/research.html#Bayesian-reinforcement-learning). See also a [complete list of our publications](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html).
+WhiRL focuses primarly on reinforcement learning research.  Some of the main topics we work on include [off-policy learning](https://oxwhirl.github.io/pages/research.html#off-policy-learning), [meta-learning](https://oxwhirl.github.io/pages/research.html#meta-learning), [multi-agent reinforcement learning](https://oxwhirl.github.io/pages/research.html#multi-agent-reinforcement-learning), and [Bayesian reinforcement learning](https://oxwhirl.github.io/pages/research.html#bayesian-reinforcement-learning). See also a [complete list of our publications](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html).
 
 ## Off-Policy Learning 
 
