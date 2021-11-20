@@ -26,8 +26,9 @@ layout: default
 * [Tabish Rashid](/pages/people/tabish.html)
 * [Matthew Fellows](/pages/people/matthew.html)
 
-## Past Members
-* Bei Peng
+## Former Members
+* Postdocs:
+* * Bei Peng
 * Wendelin Boehmer
 * Tim Rocktäschel
 * Kyriacos Shiarlis
