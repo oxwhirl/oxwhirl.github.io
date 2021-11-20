@@ -19,11 +19,9 @@ layout: default
 * [Kristian Hartikainen](/pages/people/kristian.html)
 * [Vitaly Kurin](/pages/people/vitaly.html)
 * [Shangtong Zhang](/pages/people/shangtong.html)
-* [Christian Schroeder de Witt](/pages/people/christian.html)
 * [Jelena Luketina](/pages/people/jelena.html)
 * [Anuj Mahajan](/pages/people/anuj.html)
 * [Luisa Zintgraf](/pages/people/luisa.html)
-* [Tabish Rashid](/pages/people/tabish.html)
 * [Matthew Fellows](/pages/people/matthew.html)
 
 ## Former Members
@@ -33,11 +31,12 @@ layout: default
   * Tim Rocktäschel
   * Kamil Ciosek
 * DPhil Students:
-  * Kyriacos Shiarlis
-  * Yash Satsangi
-  * Supratik Paul
+  * Tabish Rashid
+  * Christian Schroeder de Witt
   * Maximilian Igl
+  * Supratik Paul
   * Jakob Foerster
   * Greg Farquhar
   * Yannis Assael
-
+  * Kyriacos Shiarlis
+  * Yash Satsangi
