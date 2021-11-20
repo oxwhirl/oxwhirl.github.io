@@ -2,7 +2,7 @@
 layout: default
 ---
 
-WhiRL focuses primarly on reinforcement learning research.  Some of the main topics we work on include [off-policy learning](https://oxwhirl.github.io/pages/research.html#off-policy-learning).  See also a [complete list of our publications](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html).
+WhiRL focuses primarly on reinforcement learning research.  Some of the main topics we work on include [off-policy learning](https://oxwhirl.github.io/pages/research.html#off-policy-learning), [meta-learning]((https://oxwhirl.github.io/pages/research.html#meta-learning), [multi-agent reinforcement learning](https://oxwhirl.github.io/pages/research.html#multi-agent-reinforcement-learning), and [Bayesian reinforcement learning](https://oxwhirl.github.io/pages/research.html#Bayesian-reinforcement-learning). See also a [complete list of our publications](https://www.cs.ox.ac.uk/people/publications/date/Shimon.Whiteson.html).
 
 ## Off-Policy Learning 
 
@@ -28,7 +28,7 @@ WhiRL focuses primarly on reinforcement learning research.  Some of the main top
 <div align="justify"> A particularly challenging setting is that of online adaptation, where the agent gets deployed only once and needs to perform well from the start, i.e., maximise its return while learning. Computing solutions to this problem is often intractable, but meta-learning offers a scalable way to do so. We developed a method, <a href="https://arxiv.org/abs/1910.08348">VariBAD</a>, that utilises meta-learning and recent advances in approximate variational inference to learn approximately Bayes-optimal agents. In follow-up work we develop a method, <a href="https://arxiv.org/abs/2010.01062">HyperX</a> which can be used on sparse reward tasks -- a setting where many existing methods break down completely.</div>
 <br />
 
-## Deep Multi-Agent Reinforcement Learning
+## Multi-Agent Reinforcement Learning
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Se3txuc5XWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
