@@ -29,14 +29,15 @@ layout: default
 ## Former Members
 * Postdocs:
   * Bei Peng
-* Wendelin Boehmer
-* Tim Rocktäschel
-* Kyriacos Shiarlis
-* Yash Satsangi
-* Supratik Paul
-* Maximilian Igl
-* Kamil Ciosek
-* Jakob Foerster
-* Greg Farquhar
-* Yannis Assael
+  * Wendelin Boehmer
+  * Tim Rocktäschel
+  * Kamil Ciosek
+* DPhil Students:
+  * Kyriacos Shiarlis
+  * Yash Satsangi
+  * Supratik Paul
+  * Maximilian Igl
+  * Jakob Foerster
+  * Greg Farquhar
+  * Yannis Assael
 
