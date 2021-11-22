@@ -10,6 +10,6 @@ layout: default
 
 * Potential DPhil students: We typically accept two new DPhil students per year. To apply, follow the [normal procedure](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science) and specify Shimon Whiteson as a potential supervisor.  There is no need to contact Shimon directly.
 
-* Potential postdocs: Vacancies arise periodically and are advertised on the (department webpage)[http://www.cs.ox.ac.uk/aboutus/vacancies/vacancy-research.html].
+* Potential postdocs: Vacancies arise periodically and are advertised on the [department webpage](http://www.cs.ox.ac.uk/aboutus/vacancies/vacancy-research.html).
 
 ***We particularly encourage women, minorities, and members of other underrepresented groups to apply for positions in the lab.***
