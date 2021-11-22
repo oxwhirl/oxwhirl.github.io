@@ -4,12 +4,12 @@ layout: default
 
 ### Joining WhiRL
 
-* Master's students: If you want to do a thesis project in the lab, feel free to get in contact. We will do our best to find a suitable project within the lab. Please note that since we have limited time resources, we can only offer projects to highly motivated students.
+* **Master's students:** If you want to do a thesis project in the lab, feel free to get in [contact](https://oxwhirl.github.io/pages/contact.html). We will do our best to find a suitable project within the lab. Unfortunately, we can only take a few students a year.
 
-* CDT students: There are usually a few projects every year that can be done within our lab. If you’re a student, have a look at the project suggestions or get in contact with one of us directly if you have your own project ideas.
+* CDT students: We regularly offer mini-projects to first year CDT students.   In addition, you are welcome to propose your own project idea, as long as it relates to active WhiRL research topics.
 
-* Potential DPhil students: If you are interested in joining our lab as a DPhil student, follow the procedure here and mention Shimon Whiteson as potential supervisor (please note though that this does not guarantee that upon acceptance, Shimon Whiteson will be your (main) supervisor).
+* Potential DPhil students: We typically accept two new DPhil students per year. To apply, follow the [normal procedure](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science) and specify Shimon Whiteson as a potential supervisor.  There is no need to contact Shimon directly.
 
-* Potential postdocs: Research positions are usually announced on our news webpage and on the department’s vacancy page.
+* Potential postdocs: Vacancies arise periodically and are advertised on the (department webpage)[http://www.cs.ox.ac.uk/aboutus/vacancies/vacancy-research.html].
 
-We particularly encourage women, minorities, and members of other underrepresented groups to apply for positions in the lab.
+***We particularly encourage women, minorities, and members of other underrepresented groups to apply for positions in the lab.***
