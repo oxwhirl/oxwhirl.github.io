@@ -8,7 +8,7 @@ The updates will be automatically deployed,
 though there might be a short delay (~1 minute).
 Standard markdown syntax (including html syntax) is supported.
 
-Click `Improve this page` at the right down corner of each page will immediately direct you to the corresponding markdown file.
+Clicking `Improve this page` at the right down corner of each page will immediately direct you to the corresponding markdown file.
 
 ### Local deployment
 ```git clone git@github.com:oxwhirl/oxwhirl.github.io.git whirl```  
