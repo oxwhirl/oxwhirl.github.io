@@ -7,6 +7,7 @@ layout: default
 WhiRL is a machine learning research group in the Department of Computer Science at the University of Oxford that is focused on reinforcement learning, deep learning, and related topics, with applications such as robotics and video games.
 
 ### Latest News
+Dec 01, 2021: [2 Papers Accepted at AAAI 2022](/pages/news/20211201.html)  
 Sept 29, 2021: [4 Papers Accepted at NeurIPS 2021](/pages/news/20210929.html)  
 May 08, 2021: [6 Papers Accepted at ICML 2021](/pages/news/20210508.html)  
 Feb 27, 2021: [4 Papers Accepted at ICLR 2021 and AAAI 2021](/pages/news/20210227.html)  
