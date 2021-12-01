@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/oxwhirl/home/blob/master/assets/img/risto.jpeg?raw=true" alt="drawing" class="portrait"/>
+<img src="https://github.com/oxwhirl/home/blob/master/assets/img/risto.png?raw=true" alt="drawing" class="portrait"/>
 
 My research is focused on Meta-Reinforcement Learning (Meta-RL). I'm excited about broadening the spectrum of tasks deep reinforcement learning can handle and I believe Meta-RL is a good framework for making progress on that.
 
