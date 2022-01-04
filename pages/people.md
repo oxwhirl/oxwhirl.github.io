@@ -7,6 +7,7 @@ layout: default
 
 ## Postdocs
 * [Mingfei Sun](/pages/people/mingfei.html)
+* [Matthew Fellows](/pages/people/matthew.html)
 
 ## DPhil Students
 * [Zheng Xiong](/pages/people/zheng.html)
@@ -22,7 +23,6 @@ layout: default
 * [Jelena Luketina](/pages/people/jelena.html)
 * [Anuj Mahajan](/pages/people/anuj.html)
 * [Luisa Zintgraf](/pages/people/luisa.html)
-* [Matthew Fellows](/pages/people/matthew.html)
 
 ## Former Members
 * Postdocs:
