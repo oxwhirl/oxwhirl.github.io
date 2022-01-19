@@ -10,4 +10,4 @@ Previously, I completed my MS and BS in Computer Science at Brown University, re
 
 For fun I’ve enjoyed taking pictures, writing philosophy, and skiing.
 
-For more information: [jakebeck.com](jakebeck.com)
+For more information: [jakebeck.com]((https://jakebeck.com)
