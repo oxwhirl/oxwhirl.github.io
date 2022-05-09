@@ -14,7 +14,7 @@ Clicking `Improve this page` at the right down corner of each page will immediat
 ```git clone git@github.com:oxwhirl/oxwhirl.github.io.git whirl```  
 ```cd whirl```  
 ```docker build -t jekyll .```  
-```docker run --rm --cpus=1 -v `pwd`:/site -p 4000:4000 -it jekyll /bin/bash```  
+```docker run --rm --cpus=1 -v (pwd):/site -p 4000:4000 -it jekyll /bin/bash```  
 ```script/bootstrap```  
 ```bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000```  
 

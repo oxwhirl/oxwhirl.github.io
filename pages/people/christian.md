@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/oxwhirl/home/blob/master/assets/img/christian.jpg?raw=true" alt="drawing" class="portrait"/>
+<img src="/assets/img/christian.jpg" alt="drawing" class="portrait"/>
 
 ## Research
 I am a 2nd-year PhD student conducting fundamental algorithmic research in artificial intelligence (AI), machine learning, computer vision and autonomous control (particularly, UAV control). My supervision is jointly between Prof. Shimon Whiteson and Prof. Philip Torr (Torr Vision Group). In this capacity, I am funded by Free The Drones (Innovationsfonden Denmark) and Microsoft UK.

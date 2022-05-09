@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/oxwhirl/home/blob/master/assets/img/charline.jpg?raw=true" alt="drawing" class="portrait"/>
+<img src="/assets/img/charline.jpg" alt="drawing" class="portrait"/>
 
 I am a second-year PhD student co-supervised by Yee Whye Teh and Shimon Whiteson.
 

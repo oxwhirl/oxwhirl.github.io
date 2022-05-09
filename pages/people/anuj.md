@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/oxwhirl/home/blob/master/assets/img/anuj.jpg?raw=true" alt="drawing" class="portrait"/>
+<img src="/assets/img/anuj.jpg" alt="drawing" class="portrait"/>
 
 My work is focused on finding theoretically grounded methods for problems in single and multi-agent reinforcement learning (RL) which perform well on large, challenging domains.
 

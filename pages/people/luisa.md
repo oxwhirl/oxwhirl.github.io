@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/oxwhirl/home/blob/master/assets/img/luisa.jpg?raw=true" alt="drawing" class="portrait"/>
+<img src="/assets/img/luisa.jpg" alt="drawing" class="portrait"/>
 
 My PhD research focuses on meta reinforcement learning. I'm co-supervised by Shimon Whiteson and Katja Hofmann (Microsoft Research).
 

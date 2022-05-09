@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/oxwhirl/home/blob/master/assets/img/jacob.png?raw=true" alt="drawing" class="portrait"/>
+<img src="/assets/img/jacob.png" alt="drawing" class="portrait"/>
 
 I’m a DPhil student supervised by Shimon Whiteson, funded by a DeepMind Doctoral Scholarship, studying deep reinforcement learning. In the long term, I am interested in creating agents capable of discovering and leveraging novel models of their world at multiple levels of abstraction for sample-efficient learning. In the short term, I think this can be practically accomplished by learning sample-efficient algorithms via sample-inefficient learning algorithms - e.g. model-free meta-learning. Other research interests that I hope will enable more deep RL in the “real world” are: memory architecture, multi-agent RL, and human interaction (especially applied to autonomous vehicles).
 
