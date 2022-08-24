@@ -6,7 +6,6 @@ layout: default
 * [Shimon Whiteson](/pages/people/shimon.html)
 
 ## Postdocs
-* [Mingfei Sun](/pages/people/mingfei.html)
 * [Matthew Fellows](/pages/people/matthew.html)
 
 ## DPhil Students
@@ -19,18 +18,19 @@ layout: default
 * [Matt Smith](/pages/people/matt.html)
 * [Kristian Hartikainen](/pages/people/kristian.html)
 * [Vitaly Kurin](/pages/people/vitaly.html)
-* [Shangtong Zhang](/pages/people/shangtong.html)
 * [Jelena Luketina](/pages/people/jelena.html)
 * [Anuj Mahajan](/pages/people/anuj.html)
-* [Luisa Zintgraf](/pages/people/luisa.html)
 
 ## Former Members
 * Postdocs:
+  * Mingfei Sun
   * Bei Peng
   * Wendelin Boehmer
   * Tim Rocktäschel
   * Kamil Ciosek
 * DPhil Students:
+  * Luisa Zintgraf
+  * Shangtong Zhang
   * Tabish Rashid
   * Christian Schroeder de Witt
   * Maximilian Igl
