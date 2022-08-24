@@ -17,9 +17,7 @@ layout: default
 * [Tarun Gupta](/pages/people/tarun.html)
 * [Matt Smith](/pages/people/matt.html)
 * [Kristian Hartikainen](/pages/people/kristian.html)
-* [Vitaly Kurin](/pages/people/vitaly.html)
 * [Jelena Luketina](/pages/people/jelena.html)
-* [Anuj Mahajan](/pages/people/anuj.html)
 
 ## Former Members
 * Postdocs:
@@ -29,6 +27,8 @@ layout: default
   * Tim Rocktäschel
   * Kamil Ciosek
 * DPhil Students:
+  * Vitaly Kurin
+  * Anuj Mahajan
   * Luisa Zintgraf
   * Shangtong Zhang
   * Tabish Rashid
