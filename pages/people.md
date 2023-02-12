@@ -26,6 +26,7 @@ layout: default
   * Bei Peng
   * Wendelin Boehmer
   * Tim Rocktäschel
+  * Diederik Roijers
   * Kamil Ciosek
 * DPhil Students:
   * Vitaly Kurin
