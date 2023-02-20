@@ -9,6 +9,7 @@ layout: default
 * [Matthew Fellows](/pages/people/matthew.html)
 
 ## DPhil Students
+* [Nasma Dasser](/pages/people/nasma.html)
 * [Matthew Jackson](/pages/people/matthew_jackson.html)
 * [Zheng Xiong](/pages/people/zheng.html)
 * [Benjamin Ellis](/pages/people/ben.html)
