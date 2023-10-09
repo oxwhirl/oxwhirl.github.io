@@ -15,9 +15,7 @@ layout: default
 * [Benjamin Ellis](/pages/people/ben.html)
 * [Jacob Beck](/pages/people/jacob.html)
 * [Risto Vuorio](/pages/people/risto.html)
-* [Charline Le Lan](/pages/people/charline.html)
 * [Tarun Gupta](/pages/people/tarun.html)
-* [Matt Smith](/pages/people/matt.html)
 * [Kristian Hartikainen](/pages/people/kristian.html)
 * [Jelena Luketina](/pages/people/jelena.html)
 
@@ -30,6 +28,8 @@ layout: default
   * Diederik Roijers
   * Kamil Ciosek
 * DPhil Students:
+  * Matt Smith
+  * Charline Le Lan
   * Vitaly Kurin
   * Anuj Mahajan
   * Luisa Zintgraf
