@@ -19,7 +19,6 @@ layout: default
 * [Risto Vuorio](/pages/people/risto.html)
 * [Tarun Gupta](/pages/people/tarun.html)
 * [Kristian Hartikainen](/pages/people/kristian.html)
-* [Jelena Luketina](/pages/people/jelena.html)
 
 ## Former Members
 * Postdocs:
@@ -30,6 +29,7 @@ layout: default
   * Diederik Roijers
   * Kamil Ciosek
 * DPhil Students:
+  * Jelena Luketina
   * Matt Smith
   * Charline Le Lan
   * Vitaly Kurin
