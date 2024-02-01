@@ -5,9 +5,6 @@ layout: default
 ## Faculty 
 * [Shimon Whiteson](/pages/people/shimon.html)
 
-## Postdocs
-* [Matthew Fellows](/pages/people/matthew.html)
-
 ## DPhil Students
 * [Alex Goldie](/pages/people/alex_goldie.html)
 * [Alex Zakharov](/pages/people/alex_zakharov.html)
@@ -22,6 +19,7 @@ layout: default
 
 ## Former Members
 * Postdocs:
+  * Mattie Fellows
   * Mingfei Sun
   * Bei Peng
   * Wendelin Boehmer
