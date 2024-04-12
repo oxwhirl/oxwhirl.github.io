@@ -14,7 +14,6 @@ layout: default
 * [Benjamin Ellis](/pages/people/ben.html)
 * [Jacob Beck](/pages/people/jacob.html)
 * [Risto Vuorio](/pages/people/risto.html)
-* [Tarun Gupta](/pages/people/tarun.html)
 * [Kristian Hartikainen](/pages/people/kristian.html)
 
 ## Former Members
@@ -27,6 +26,7 @@ layout: default
   * Diederik Roijers
   * Kamil Ciosek
 * DPhil Students:
+  * Tarun Gupta
   * Jelena Luketina
   * Matt Smith
   * Charline Le Lan
