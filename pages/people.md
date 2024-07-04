@@ -8,13 +8,11 @@ layout: default
 ## DPhil Students
 * [Alex Goldie](/pages/people/alex_goldie.html)
 * [Alex Zakharov](/pages/people/alex_zakharov.html)
-* [Nasma Dasser](/pages/people/nasma.html)
 * [Matthew Jackson](/pages/people/matthew_jackson.html)
 * [Zheng Xiong](/pages/people/zheng.html)
 * [Benjamin Ellis](/pages/people/ben.html)
 * [Jacob Beck](/pages/people/jacob.html)
 * [Risto Vuorio](/pages/people/risto.html)
-* [Kristian Hartikainen](/pages/people/kristian.html)
 
 ## Former Members
 * Postdocs:
@@ -26,6 +24,7 @@ layout: default
   * Diederik Roijers
   * Kamil Ciosek
 * DPhil Students:
+  * Kristian Hartikainen
   * Tarun Gupta
   * Jelena Luketina
   * Matt Smith
