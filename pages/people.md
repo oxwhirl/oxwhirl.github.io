@@ -6,6 +6,7 @@ layout: default
 * [Shimon Whiteson](/pages/people/shimon.html)
 
 ## DPhil Students
+* [Zilin Wang](/pages/people/zilin.html)
 * [Alex Goldie](/pages/people/alex_goldie.html)
 * [Alex Zakharov](/pages/people/alex_zakharov.html)
 * [Matthew Jackson](/pages/people/matthew_jackson.html)
