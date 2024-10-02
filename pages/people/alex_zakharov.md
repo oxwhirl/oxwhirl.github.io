@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/img/alex_zakharov.png" alt="drawing" class="portrait"/>
+<img src="/assets/img/alex_zakharov.jpg" alt="drawing" class="portrait"/>
 
 My name is Alex, and I am a DPhil (PhD) student at the Whiteson Research Lab, where I am supervised by [Prof Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/).
 
