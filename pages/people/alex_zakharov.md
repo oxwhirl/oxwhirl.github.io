@@ -10,4 +10,4 @@ I am interested in building adaptive agents that can safely navigate complex env
 
 Previously, I worked as a research associate at Huawei 2012 Laboratories in London, focussing on Bayesian model-based RL, representation learning, and generative models. I hold a Master's degree in Artificial Intelligence from Imperial College London, where I was supervised by [Dr. Zafeirios Fountas](http://www.zfountas.com) and [Dr. Matthew Crosby](https://scholar.google.com/citations?user=TjfMUmkAAAAJ&hl=en).
 
-If you have any questions, or want to reach out, please contact me at [my email](mailto:alexey.zakharov@cs.ox.ac.uk).
+If you have any questions, or want to reach out, please contact me at [my email](mailto:alexey.zakharov@cs.ox.ac.uk). Check out my [website](https://azak.cc).
