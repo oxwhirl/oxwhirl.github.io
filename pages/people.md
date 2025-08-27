@@ -12,9 +12,6 @@ layout: default
 * [Alex Zakharov](/pages/people/alex_zakharov.html)
 * [Matthew Jackson](/pages/people/matthew_jackson.html)
 * [Zheng Xiong](/pages/people/zheng.html)
-* [Benjamin Ellis](/pages/people/ben.html)
-* [Jacob Beck](/pages/people/jacob.html)
-* [Risto Vuorio](/pages/people/risto.html)
 
 ## Former Members
 * Postdocs:
@@ -26,6 +23,9 @@ layout: default
   * Diederik Roijers
   * Kamil Ciosek
 * DPhil Students:
+  * Benjamin Ellis
+  * Jacob Beck
+  * Risto Vuorio
   * Kristian Hartikainen
   * Tarun Gupta
   * Jelena Luketina
