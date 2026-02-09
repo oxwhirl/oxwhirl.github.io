@@ -6,13 +6,13 @@ layout: default
 * [Shimon Whiteson](/pages/people/shimon.html)
 
 ## DPhil Students
+* [Shashank Reddy](https://scholar.google.com/citations?user=sJMID3oAAAAJ&hl=en) 
 * [Ravi Hammond](https://ravihammond.com/)
 * [Bidipta Sarkar](/pages/people/bidipta.html)
 * [Zilin Wang](/pages/people/zilin.html)
 * [Alex Goldie](/pages/people/alex_goldie.html)
 * [Alex Zakharov](/pages/people/alex_zakharov.html)
 * [Matthew Jackson](/pages/people/matthew_jackson.html)
-* [Zheng Xiong](/pages/people/zheng.html)
 
 ## Former Members
 * Postdocs:
@@ -24,6 +24,7 @@ layout: default
   * Diederik Roijers
   * Kamil Ciosek
 * DPhil Students:
+  * Zheng Xiong
   * Benjamin Ellis
   * Jacob Beck
   * Risto Vuorio
